@@ -1,10 +1,5 @@
 # bootstrap
 
-# Portoflio
-
-> In this project, I set up a "Portoflio" repository. I create html, css, images files  .I created three branches to be familiar with github , I created Pull request and merge the updates with main branch .
-
-
 ## Built With
 
 - HTML and CSS

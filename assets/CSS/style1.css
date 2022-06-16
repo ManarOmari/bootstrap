@@ -49,3 +49,24 @@ a {
     background-color: #fff;
     color:  #505F79;;
   }
+  .form-contact {
+    background-color: #6070FF;
+    color: #fff;
+    justify-content: center;
+    justify-items: center;
+    background-image: url(/assets/images/abc.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .heading {
+    margin-top: 20%;
+  }
+  .form-group {
+    padding: 0.5rem;
+  }
+  .form-group input {
+    height: 4rem;
+  }
+  .form-contact textarea {
+    width: -webkit-fill-available;
+  }
